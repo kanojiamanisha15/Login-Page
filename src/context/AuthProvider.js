@@ -12,4 +12,9 @@ export const AuthProvider = ({ children }) => {
     )
 }
 
+// export const AuthProvider = () => {
+//     const [user, setUser]=useState(null )
+// }
+
+
 export default AuthContext
